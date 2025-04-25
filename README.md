@@ -6,7 +6,7 @@
 This function is implemented in the R script located at:
 
 ```
-Z:\pi514\input_for_ddrtree_ukbb\ukbb_inputs_final\synthetich_data_Taxonomy
+Z:\pi514\input_for_ddrtree_ukbb\ukbb_inputs_final\UKB_taxonomy_UI_synthetich_data_Generation
 ```
 
 The primary script file generates a fully structured, partially synthetic dataset suitable for prototyping, visualization, and pipeline development in healthcare or taxonomic data systems.
