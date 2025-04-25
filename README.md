@@ -99,8 +99,3 @@ This tool is designed to:
 
 ---
 
-## 👨‍🔬 Maintainers & Use Policy
-
-This function is developed and maintained by the [Your Research Group Name] as an internal simulation utility.
-
-Please contact [Your Contact Email] for feedback, improvements, or collaborations.
