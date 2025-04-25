@@ -82,6 +82,11 @@ The plot (`synthetic_plot.png`) provides a quick visual verification of:
 - The full spatial distribution of the dataset
 - The synthetic sample’s spread across the spatial domain
 
+
+![UI Screenshot Placeholder](./synthetic_plot.png)
+
+> *Figure: Distribution of generated synthetich dataset for 500 samples.*
+
 ---
 
 ## 🧠 Purpose & Applications
