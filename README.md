@@ -23,9 +23,8 @@ The `generate_synthetic_dataset()` function:
    - `rbinom()` for binary fields like `hypertension_BL`, `hyperchol_BL`, `diabetes_BL`, and `Sex`
    - Multinomial sampling from observed frequencies for `Ethnic_background`
    - Normal distribution sampling (`rnorm()`) for continuous variables
-4. **Preserves columns after `V2`** from the original dataset (e.g., outcome measures or metadata).
-5. **Saves the synthetic dataset** to a user-specified output path.
-6. **Creates and saves a visualization plot** of the spatial sampling result.
+4. **Saves the synthetic dataset** to a user-specified output path.
+5. **Creates and saves a visualization plot** of the spatial sampling result.
 
 ---
 
